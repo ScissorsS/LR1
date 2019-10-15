@@ -1,3 +1,6 @@
+// Copyright 2018 ScissorsS <georgefight@mail.ru>
+
+#include <header.hpp>
 #include <iostream>
 #include <cstdlib>
 #include <fstream>

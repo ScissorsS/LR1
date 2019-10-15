@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570968584 source:e:\codeblocks\tt\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<any>
+	<map>
+	<vector>
+
